@@ -1,0 +1,7 @@
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\bin\Debug\Datastruct-Q1.exe.config
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\bin\Debug\Datastruct-Q1.exe
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\bin\Debug\Datastruct-Q1.pdb
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\obj\Debug\Datastruct-Q1.csproj.AssemblyReference.cache
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\obj\Debug\Datastruct-Q1.csproj.CoreCompileInputs.cache
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\obj\Debug\Datastruct-Q1.exe
+C:\Users\jarvic\source\repos\Datastruct-Q1\Datastruct-Q1\obj\Debug\Datastruct-Q1.pdb
